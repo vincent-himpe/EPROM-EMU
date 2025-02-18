@@ -25,3 +25,4 @@ fp-info-cache
 *.xml
 *.csv
 /Altium/History
+/Altium/Project Logs for EPROM-EMU
